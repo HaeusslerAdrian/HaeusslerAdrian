@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HaeusslerAdrian
 
-- 👀 I’m interested in Web development, game development, 
+- 👀 I’m interested in Web development, game development, C#/Java application development
 
-- 🌱 I’m currently learning backends with c# and backends with Java
+- 🌱 I’m currently improving my skills in C# and Java
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ...
